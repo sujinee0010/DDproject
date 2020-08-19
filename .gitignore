@@ -263,10 +263,6 @@ fabric.properties
 # https://plugins.jetbrains.com/plugin/12206-codestream
 .idea/codestream.xml
 
-
-#Custom
-.idea
-
 ### Python ###
 # Byte-compiled / optimized / DLL files
 
@@ -327,3 +323,6 @@ fabric.properties
 # pytype static type analyzer
 
 # End of https://www.toptal.com/developers/gitignore/api/django,pycharm,python,git
+
+#Custom
+.idea
